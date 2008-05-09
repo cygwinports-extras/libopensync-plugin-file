@@ -1,0 +1,4 @@
+category: Libs
+requires: cygwin glib2 libopensync0 libxml2
+sdesc: "OpenSync file plugin"
+ldesc: "file plugin for the OpenSync synchronization framework"
